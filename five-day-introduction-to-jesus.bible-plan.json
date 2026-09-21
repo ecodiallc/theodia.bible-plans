@@ -1,0 +1,175 @@
+{
+  "id": "five-day-introduction-to-jesus",
+  "name": "5-Day Introduction to Jesus",
+  "description": "A simple five-day reading plan that walks through key passages revealing who Jesus is, why He came, what He taught, how He died and rose again, and what it means to follow Him.",
+  "author": "Theodia",
+  "traditions": [
+    "General"
+  ],
+  "tags": [
+    "starter",
+    "intro",
+    "jesus",
+    "gospels",
+    "daily",
+    "5-day",
+    "new-believer",
+    "discipleship"
+  ],
+  "version": "1.0.0",
+  "createdAt": "2026-09-21T00:00:00.000Z",
+  "source": "repo",
+  "type": "single",
+  "payload": {
+    "featureType": "bible-plan",
+    "data": {
+      "id": "five-day-introduction-to-jesus",
+      "title": "5-Day Introduction to Jesus",
+      "description": "A simple five-day reading plan that walks through key passages revealing who Jesus is, why He came, what He taught, how He died and rose again, and what it means to follow Him.",
+      "tradition": "general",
+      "planType": "reading",
+      "scheduleType": "daily",
+      "coverImageUrl": null,
+      "folderId": null,
+      "tags": [
+        "starter",
+        "intro",
+        "jesus",
+        "gospels",
+        "daily",
+        "5-day",
+        "new-believer",
+        "discipleship"
+      ],
+      "isBuiltIn": 1,
+      "isTemplate": 0,
+      "sourcePackageId": "five-day-introduction-to-jesus",
+      "studyPlanId": null,
+      "readings": [
+        {
+          "position": 0,
+          "label": "Day 1",
+          "title": "Who Jesus Is",
+          "passages": [
+            {
+              "book": "John",
+              "chapter": 1,
+              "verseStart": 1,
+              "verseEnd": 18
+            }
+          ],
+          "keyVerse": {
+            "book": "John",
+            "chapter": 1,
+            "verseStart": 14,
+            "verseEnd": 14
+          },
+          "devotionalText": "The Gospel of John opens by calling Jesus the Word. He was with God in the beginning, and He is God. Jesus is the Creator through whom everything was made, the light that darkness cannot overcome, and the one who became flesh and lived among us. Before anything else, begin by seeing Jesus as God made visible.",
+          "reflectionPrompt": "What does it mean to you that Jesus is fully God and became fully human?",
+          "prayerPrompt": "Jesus, help me see You clearly as the eternal Word who came near. Open my eyes to who You really are.",
+          "worshipResponse": "Praise Jesus as Creator and Sustainer. Sing or speak a declaration that He is the light of the world."
+        },
+        {
+          "position": 1,
+          "label": "Day 2",
+          "title": "Why Jesus Came",
+          "passages": [
+            {
+              "book": "Luke",
+              "chapter": 19,
+              "verseStart": 1,
+              "verseEnd": 10
+            }
+          ],
+          "keyVerse": {
+            "book": "Luke",
+            "chapter": 19,
+            "verseStart": 10,
+            "verseEnd": 10
+          },
+          "devotionalText": "Jesus came to seek and to save the lost. In Zacchaeus, a tax collector despised by his neighbors, Jesus sees a man worth pursuing. Salvation enters Zacchaeus's home that day, and the evidence is a transformed heart that repays wrongs and gives generously. Jesus still comes looking for people others overlook.",
+          "reflectionPrompt": "Do you believe Jesus came specifically to find and rescue people like you? Why or why not?",
+          "prayerPrompt": "Lord Jesus, thank You that You came to seek and save the lost. Find me where I am hiding and make me new.",
+          "worshipResponse": "Respond with gratitude for Jesus's pursuing love. Identify one way you can show His generosity today."
+        },
+        {
+          "position": 2,
+          "label": "Day 3",
+          "title": "What Jesus Taught",
+          "passages": [
+            {
+              "book": "Matthew",
+              "chapter": 5,
+              "verseStart": 1,
+              "verseEnd": 16
+            }
+          ],
+          "keyVerse": {
+            "book": "Matthew",
+            "chapter": 5,
+            "verseStart": 14,
+            "verseEnd": 16
+          },
+          "devotionalText": "The Sermon on the Mount begins with blessings that turn the world's values upside down. The poor in spirit, the merciful, the peacemakers, and those persecuted for righteousness are called blessed. Jesus then tells His followers they are salt and light, called to live in a way that makes God's goodness visible to the world.",
+          "reflectionPrompt": "Which Beatitude challenges you most today? How can your life be salt and light where you live?",
+          "prayerPrompt": "Jesus, shape my values by Your kingdom. Teach me to live in a way that shows Your goodness to others.",
+          "worshipResponse": "Commit to one concrete act of mercy, peacemaking, or kindness in the coming week."
+        },
+        {
+          "position": 3,
+          "label": "Day 4",
+          "title": "How Jesus Died and Rose",
+          "passages": [
+            {
+              "book": "Mark",
+              "chapter": 15,
+              "verseStart": 22,
+              "verseEnd": 47
+            },
+            {
+              "book": "Mark",
+              "chapter": 16,
+              "verseStart": 1,
+              "verseEnd": 8
+            }
+          ],
+          "keyVerse": {
+            "book": "Mark",
+            "chapter": 16,
+            "verseStart": 6,
+            "verseEnd": 7
+          },
+          "devotionalText": "Jesus was crucified between criminals, and a Roman centurion watching Him die said, 'Surely this man was the Son of God!' On the third day, women went to the tomb and found it empty. A young man clothed in white told them Jesus had risen and was going ahead of them to Galilee. The cross and the empty tomb are the center of the Christian faith.",
+          "reflectionPrompt": "What does the cross reveal about the cost of your sin and the love of God? How does the resurrection change your hope?",
+          "prayerPrompt": "Lord, I stand amazed at the cross and the empty tomb. Thank You for paying what I could not and for rising to give me hope.",
+          "worshipResponse": "Spend a few moments in silence, then speak or sing praise to the crucified and risen Savior."
+        },
+        {
+          "position": 4,
+          "label": "Day 5",
+          "title": "How to Follow Jesus",
+          "passages": [
+            {
+              "book": "Matthew",
+              "chapter": 16,
+              "verseStart": 24,
+              "verseEnd": 27
+            }
+          ],
+          "keyVerse": {
+            "book": "Matthew",
+            "chapter": 16,
+            "verseStart": 24,
+            "verseEnd": 25
+          },
+          "devotionalText": "Following Jesus is not a small decision. Jesus calls anyone who would come after Him to deny themselves, take up their cross daily, and follow Him. The way of Jesus leads through surrender, but it also leads to real life. Losing your life for His sake is how you actually find it.",
+          "reflectionPrompt": "What would it look like for you to 'take up your cross' and follow Jesus in your daily life this week?",
+          "prayerPrompt": "Jesus, I want to follow You. Show me what to surrender and give me the courage to walk Your way.",
+          "worshipResponse": "Make a simple commitment to one area where you will choose Jesus's way over your own this week."
+        }
+      ],
+      "study_plans": [],
+      "study_plan_id": null
+    }
+  }
+}
