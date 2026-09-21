@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-21T00:00:00.000Z",
+  "packages": [
+    {
+      "id": "five-day-introduction-to-jesus",
+      "type": "bible-plan",
+      "path": "five-day-introduction-to-jesus.bible-plan.json",
+      "name": "5-Day Introduction to Jesus",
+      "description": "A simple five-day reading plan that walks through key passages revealing who Jesus is, why He came, what He taught, how He died and rose again, and what it means to follow Him.",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["starter", "intro", "jesus", "gospels", "daily", "5-day", "new-believer", "discipleship"],
+      "version": "1.0.0"
+    }
+  ]
+}
