@@ -23,6 +23,17 @@
       "traditions": ["General"],
       "tags": ["one-year", "daily", "canonical", "whole-bible", "reading-plan"],
       "version": "1.0.0"
+    },
+    {
+      "id": "read-the-new-testament-in-a-year",
+      "type": "bible-plan",
+      "path": "read-the-new-testament-in-a-year.bible-plan.json",
+      "name": "Read the New Testament in a Year",
+      "description": "A one-year daily reading plan that walks through every chapter of the New Testament in canonical order from Matthew to Revelation, with built-in rest days for reflection and catch-up.",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["one-year", "daily", "new-testament", "reading-plan"],
+      "version": "1.0.0"
     }
   ]
 }
