@@ -45,6 +45,17 @@
       "traditions": ["Jewish"],
       "tags": ["one-year", "daily", "old-testament", "tanakh", "reading-plan"],
       "version": "1.0.0"
+    },
+    {
+      "id": "read-the-bible-in-3-years-chronological",
+      "type": "bible-plan",
+      "path": "read-the-bible-in-3-years-chronological.bible-plan.json",
+      "name": "Read the Bible in 3 Years — Chronological",
+      "description": "A three-year chronological reading plan that walks through Scripture in the order events likely occurred, interleaving prophetic books with the historical accounts of the kings and eras they address.",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["three-year", "daily", "chronological", "whole-bible", "reading-plan"],
+      "version": "1.0.0"
     }
   ]
 }
