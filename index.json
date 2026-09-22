@@ -12,6 +12,17 @@
       "traditions": ["General"],
       "tags": ["starter", "intro", "jesus", "gospels", "daily", "5-day", "new-believer", "discipleship"],
       "version": "1.0.0"
+    },
+    {
+      "id": "read-the-bible-in-a-year",
+      "type": "bible-plan",
+      "path": "read-the-bible-in-a-year.bible-plan.json",
+      "name": "Read the Bible in a Year",
+      "description": "A one-year reading plan that walks through every chapter of the Protestant Bible from Genesis to Revelation in canonical order, averaging about three chapters per day.",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["one-year", "daily", "canonical", "whole-bible", "reading-plan"],
+      "version": "1.0.0"
     }
   ]
 }
