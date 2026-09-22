@@ -34,6 +34,17 @@
       "traditions": ["General"],
       "tags": ["one-year", "daily", "new-testament", "reading-plan"],
       "version": "1.0.0"
+    },
+    {
+      "id": "read-the-old-testament-in-a-year-tanakh",
+      "type": "bible-plan",
+      "path": "read-the-old-testament-in-a-year-tanakh.bible-plan.json",
+      "name": "Read the Old Testament in a Year (Tanakh Order)",
+      "description": "A one-year reading plan through the Old Testament in the Jewish Tanakh order: Torah, Prophets, and Writings. Every chapter is read once, averaging about three chapters per day.",
+      "author": "Theodia",
+      "traditions": ["Jewish"],
+      "tags": ["one-year", "daily", "old-testament", "tanakh", "reading-plan"],
+      "version": "1.0.0"
     }
   ]
 }
