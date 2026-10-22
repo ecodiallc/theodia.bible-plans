@@ -1,7 +1,5 @@
 # Theodia Bible Plans
 
-A repository of downloadable Bible reading plans for the Theodia app.
-
 | File | Contents |
 |---|---|
 | `Five-Day-Introduction-To-Jesus.bible-plan.json` | A simple five-day reading plan that walks through key passages revealing who Jesus is, why He came, what He taught, how He died and rose again, and what it means to follow Him |
