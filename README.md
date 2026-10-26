@@ -11,3 +11,9 @@
 ## Package Index
 
 `index.json` lists all available packages with metadata, including the file path, display name, description, author, tradition, tags, and version.
+
+### Download Theodia.app
+
+- [App Store](https://apps.apple.com/us/app/theodia/id6783143344)
+- [Google Play](https://play.google.com/store/apps/details?id=com.ecodia.theodia)
+
